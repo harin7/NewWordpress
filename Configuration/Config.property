@@ -1,0 +1,4 @@
+chromeDriver=C:\\Users\\Joythirmayee\\eclipse-workspace\\onlineclass\\src\\test\\resources\\binaries\\chromedriver.exe
+firefoxDriver=C:\\Users\\Joythirmayee\\eclipse-workspace\\onlineclass\\src\\test\\resources\\binaries\\geckodriver.exe
+URL=http://demosite.center/wordpress/wp-login.php
+Excelpath=
